@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="Library Ids">
+
+		<setting id="tv_shows_library_id" type="text" label="TV Shows" default="" />
+		<setting id="movies_library_id" type="text" label="Movies" default="" />
+		<setting id="music_library_id" type="text" label="Music" default="" />
+	</category>
+</settings>
